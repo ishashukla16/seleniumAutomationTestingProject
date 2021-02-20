@@ -1,0 +1,338 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T10:01:28.893Z",
+        "line": 2,
+        "name": "positive login scenario",
+        "description": "",
+        "id": "login-feature;positive-login-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2166000,
+              "status": "skipped"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1079900,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user clicks on shop icon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user clicks on home btn",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user has three sliders",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-20T10:01:29.037Z",
+        "line": 8,
+        "name": "for arrivals",
+        "description": "",
+        "id": "login-feature;for-arrivals",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "user is on main page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 147200,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user clicks on shop icon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user clicks on home btn",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1045600,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "user has three arrivals",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-20T10:01:29.049Z",
+        "line": 14,
+        "name": "for navigating",
+        "description": "",
+        "id": "login-feature;for-navigating",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 997600,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "user is on main page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "user clicks on shop icon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "user clicks on home btn",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "user has three arrivals",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "page is navigating so user can add book",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-20T10:01:29.066Z",
+        "line": 22,
+        "name": "for discription",
+        "description": "",
+        "id": "login-feature;for-discription",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "user is on main page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "user clicks on shop icon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1153100,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "user clicks on home btn",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 491600,
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "user has three arrivals",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 27,
+            "name": "page is navigating so user can add book",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "click on description",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 997500,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "there should be a description about book",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-02-20T10:01:29.088Z",
+        "line": 31,
+        "name": "for review",
+        "description": "",
+        "id": "login-feature;for-review",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "user is on main page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "user clicks on shop icon",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "user clicks on home btn",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "user has three arrivals",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "page is navigating so user can add book",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 37,
+            "name": "click on description",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 934100,
+              "status": "skipped"
+            },
+            "line": 38,
+            "name": "there should be a description about book",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 39,
+            "name": "click on review",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 40,
+            "name": "review of book is present",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Login Feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:features/login.feature",
+    "tags": []
+  }
+]
